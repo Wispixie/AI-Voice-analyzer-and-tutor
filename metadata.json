@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Vocal Truth: AI Sing-Check",
+  "description": "A brutally honest AI vocal analyzer that provides professional-grade critiques and industry-focused advice without coddling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
